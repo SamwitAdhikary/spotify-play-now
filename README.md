@@ -8,7 +8,7 @@
 
 
   [![Website](https://img.shields.io/website?label=samwitadhikary.github.io&style=for-the-badge&url=https://samwitadhikary.github.io/my-profile)](https://samwitadhikary.github.io/my-profile)
-  [![E-Mail](https://img.shields.io/badge/email-samwitadhikary2@gmail.com-369?style=flat-square&logo=gmail&logoColor=white)](https://samwitadhikary2@gmail.com)
+  [![E-Mail](https://img.shields.io/badge/email-samwitadhikary2@gmail.com-369?style=flat-square&logo=gmail&logoColor=white)](mailto:samwitadhikary2@gmail.com)
   [![Visits](https://badges.pufler.dev/visits/SamwitAdhikary/SamwitAdhikary?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/SamwitAdhikary)
 </p>
   </td>
